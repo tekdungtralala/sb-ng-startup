@@ -1,0 +1,11 @@
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/src/main/webapp/*
+backend/src/main/resources/static/*
+backend/target
+
+frontend/node
+frontend/target
+frontend/package-lock.json
+frontend/src/environments/*
